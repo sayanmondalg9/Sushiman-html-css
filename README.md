@@ -1,1 +1,1 @@
-### This webside teaches some fundamental concepts of HTML CSS by building a fairly intermidiatly webside called SUSHIMAN.
+### This webside teaches begginers, some fundamental concepts of HTML CSS by building a moderately complex webside called SUSHIMAN.
