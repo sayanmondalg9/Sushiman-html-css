@@ -1,0 +1,27 @@
+## CSS BEM -> BEM stands for Block, Element, Modifier, and it is a naming
+convention or methodology used in CSS to create a modular and mintainable
+codebase.
+
+# Block -> It reffers a complete scope or a component like header, nav, hero,
+footer, card etc. (sections)
+
+# Element -> It acts as a specific part of a component, like header title,
+header__button, hero__image, hero__content, card__text, card__button etc.
+
+# Modifier -> It helps to add some specific styles to a specific element(s)
+like button--primary, title--large, link--active etc.
+
+# Block -> header, header-content, hero-content-info, about-us
+
+# Element -> __image, __button, __title, every element name works like
+nav-menu__links,
+nav-menu__icon,
+hero-content__title,
+hero-content__button,
+about-us__image,
+about-us__button,
+
+# Modifier -> __link--active, __button--primary, __title--large, modifier
+gives a special function like `active`, variant `3` `5`, text `large`.
+
+
